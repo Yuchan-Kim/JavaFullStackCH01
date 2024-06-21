@@ -7,11 +7,6 @@ public class Ex01 {
 		 * 1. float
 		 */ 
 		
-		
-		/*
-		 * 
-		 */
-		
 	}
 
 }
