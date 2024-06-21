@@ -16,6 +16,6 @@ public class Ex37 {
 		int extra = numOfPen % numOfPerson;
 		System.out.println("1인당 연필의 갯수는 " + penPerPerson + "입니다.");
 		System.out.println("연필의 나머지 갯수는  " + extra + "입니다.");
-		sc.close();
+		sc.close();   
 	}
 }
