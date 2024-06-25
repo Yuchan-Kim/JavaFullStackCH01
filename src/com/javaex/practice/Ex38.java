@@ -9,5 +9,6 @@ public class Ex38 {
 		int amount = sc.nextInt();
 		int rightAmount = (amount/1000) * 1000;
 		System.out.println("실제지불금액은 " + rightAmount + " 입니다.");
+		sc.close();
 	}
 }
